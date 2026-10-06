@@ -4,9 +4,9 @@ title: Scrivelle — User Guide and Support
 description: The Scrivelle user guide and support page.
 ---
 
-# Scrivelle
+# User Guide and Support
 
-A word processor for novelists on the Mac: Word documents on real pages, your cast and your
+Scrivelle is a word processor for novelists on the Mac: Word documents on real pages, your cast and your
 notes beside the text, and a writing assistant on the page — Apple's own on-device model, or
 the AI service you already use.
 
