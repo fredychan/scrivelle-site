@@ -66,7 +66,7 @@ Scrivelle is not directed to children and collects no personal information from 
 
 ## Changes
 
-If this policy changes, the new version will be published at the same address with a new date.
+If this policy changes, the new version will be published at the same address (https://fredychan.github.io/scrivelle-site/privacy) with a new date.
 
 ## Contact
 
