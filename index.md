@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Scrivelle — User Guide and Support
-description: The Scrivelle user guide and support page.
+title: Scivelle — User Guide and Support
+description: The Scivelle user guide and support page.
 ---
 
 # User Guide and Support
 
-Scrivelle is a word processor for novelists on the Mac: Word documents on real pages, your cast and your
+Scivelle is a word processor for novelists on the Mac: Word documents on real pages, your cast and your
 notes beside the text, and a writing assistant on the page — Apple's own on-device model, or
 the AI service you already use.
 
@@ -17,7 +17,7 @@ an AI service and ask it something).
 
 ---
 
-Scrivelle is a word processor for novelists on the Mac. It opens and saves Word documents,
+Scivelle is a word processor for novelists on the Mac. It opens and saves Word documents,
 lays your book out on real pages as you write, keeps the cast and the world of your story
 beside the text, and brings a writing assistant to the page — Apple's own on-device model, or
 the AI service you already pay for.
@@ -48,7 +48,7 @@ the status bar below. Start typing.
 Recent lists what you worked on lately. ⌘S saves; the first time, you choose the name and the
 format.
 
-**Formats.** Scrivelle reads and writes Word documents (`.docx`), its own web documents (`.html`),
+**Formats.** Scivelle reads and writes Word documents (`.docx`), its own web documents (`.html`),
 Markdown (`.md`) and plain text (`.txt`). Word is the format to use with editors, agents and
 other word processors: formatting, styles, comments, tracked changes, pictures, the cast and
 your notes all travel in it.
@@ -217,11 +217,11 @@ instead:
 - **Claude** — paste a key from Anthropic. A Claude subscription cannot be used in other apps.
 - **Gemini** — paste a key from Google AI Studio, which has a free tier.
 - **OpenRouter** — one account for Claude, GPT, Gemini and many more: sign in, or paste a key.
-- **Ollama** — free, open models that run on this Mac. Install Ollama, and Scrivelle finds it.
+- **Ollama** — free, open models that run on this Mac. Install Ollama, and Scivelle finds it.
 - **Other server** — any OpenAI-compatible server, by its address.
 
 Each card walks you through it: a key is three steps — open the key page, create and copy a key,
-paste it — and Scrivelle checks the connection before keeping it. The models on offer appear in
+paste it — and Scivelle checks the connection before keeping it. The models on offer appear in
 a menu with the best one for writing first. Keys and sign-ins are kept on this Mac, in the app's
 own folder, and only ever sent to the provider they belong to. The assistant pane's footer always
 says which engine is answering and where your text goes.
@@ -257,7 +257,7 @@ Also in AI Settings:
 
 ## 9. Settings
 
-Scrivelle ▸ Settings… (⌘,):
+Scivelle ▸ Settings… (⌘,):
 
 - **Appearance** — follow the system, or light or dark.
 - **Accent colour** — the colour of buttons, selections and the frame around objects.
@@ -296,14 +296,14 @@ Scrivelle ▸ Settings… (⌘,):
 - **Words today** counts from the first time you open the document each calendar day; closing
   and reopening the app keeps the count.
 - **Something went wrong in the text.** File ▸ Version History has a copy from every save.
-- **A Word file looks odd.** Scrivelle ignores impossible values it meets in a file (an indent
+- **A Word file looks odd.** Scivelle ignores impossible values it meets in a file (an indent
   wider than the page, say); saving the file once writes it back clean.
 
 ---
 
 ## 12. Privacy, in short
 
-Scrivelle keeps your documents wherever you save them and its settings on your Mac. It has no
+Scivelle keeps your documents wherever you save them and its settings on your Mac. It has no
 account, collects nothing and sends nothing anywhere on its own. Text leaves your Mac only when
 you run the assistant with a provider you connected, and then only to that provider, under its
 terms. See the privacy policy for the details.
