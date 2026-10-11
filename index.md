@@ -13,7 +13,8 @@ the AI service you already use.
 **Support.** This page is the User Guide, with every feature explained. Questions, problems and
 ideas: write to [gh0stzz83@gmail.com](mailto:gh0stzz83@gmail.com). The [privacy policy](privacy)
 says what the app does with your writing (in short: nothing leaves your Mac unless you connect
-an AI service and ask it something).
+an AI service and ask it something). These pages also live at
+[scivelle.com/guide](https://www.scivelle.com/guide) and [scivelle.com/privacy](https://www.scivelle.com/privacy).
 
 ---
 
@@ -71,8 +72,12 @@ makes one from the paragraph at the caret. Heading 1 is a chapter and Heading 2 
 line height and the *Line and Page Breaks* rules — keep with next, keep lines together, page
 break before, widow and orphan control — which the pages honour on screen and in print.
 
-**Spelling.** Misspelled words get a red underline. Right-click one for suggestions and *Learn
-Spelling*. This works on the page and in every text field of the Manuscript pane.
+**Spelling.** Misspelled words get a red underline as you type (the word you are typing is left
+alone until you finish it). Rest the pointer on one and a card offers the Mac's guesses — click
+one to use it — with *Learn Spelling* (your Mac remembers the word, in every app) and *Ignore*
+(this session). Right-clicking the word offers the same. The names of your cast are never
+flagged. The checker is the Mac's own, in the language of your Mac; the status bar's language
+button turns it off and on. The text fields of the Manuscript pane are checked the usual way.
 
 **Find and replace.** ⌘F opens Find, ⇧⌘H Replace. Matches are highlighted on the page; Enter
 goes to the next.
@@ -262,6 +267,10 @@ Scivelle ▸ Settings… (⌘,):
 - **Appearance** — follow the system, or light or dark.
 - **Accent colour** — the colour of buttons, selections and the frame around objects.
 - **Writing assistant** — what the assistant reads, and the engines (see above).
+- **Updates** — the direct download looks for a newer version once a day and offers it; nothing
+  is downloaded until you say so. Turn the daily check off here, or *Check Now*; Scivelle ▸
+  Check for Updates… does the same from the menu. The Mac App Store version is updated by the
+  App Store.
 
 ---
 
@@ -304,6 +313,7 @@ Scivelle ▸ Settings… (⌘,):
 ## 12. Privacy, in short
 
 Scivelle keeps your documents wherever you save them and its settings on your Mac. It has no
-account, collects nothing and sends nothing anywhere on its own. Text leaves your Mac only when
-you run the assistant with a provider you connected, and then only to that provider, under its
-terms. See the privacy policy for the details.
+account and collects nothing; on its own it sends only the licence key, to the store that
+sold it, and a daily question to GitHub about a newer version (which you can turn off). Text
+leaves your Mac only when you run the assistant with a provider you connected, and then only to
+that provider, under its terms. See the privacy policy for the details.

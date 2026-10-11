@@ -6,7 +6,7 @@ description: How Scivelle treats your writing and your data.
 
 # Privacy Policy
 
-_Last updated: 6 October 2026_
+_Last updated: 10 October 2026_
 
 Scivelle is a word processor for novelists, made by Fredy. This policy explains what the app
 does with your writing and your data. The short version: your documents stay wherever you save
@@ -20,7 +20,7 @@ the writing assistant with an AI service you chose to connect — and then only 
 - **Version history**: a copy of each document at every save, kept in the app's own data folder
   on your Mac so you can restore an earlier version. These copies never leave your Mac.
 - **Settings and preferences** (appearance, accent colour, the daily word goal, what the
-  assistant reads, the recent documents list) are kept on your Mac.
+  assistant reads, the recent documents list, whether to look for updates) are kept on your Mac.
 - **The trial and the licence**: the date of the first launch (also kept in a second small
   file in Library/Application Support, so the trial survives emptying the app's folder) and,
   once bought, the licence key. Both stay on your Mac.
@@ -57,14 +57,22 @@ about once a week, when online, it checks again. Nothing else is sent, and nothi
 documents. Deactivating tells the store to release this Mac. The Mac App Store version has no
 keys and makes none of these requests.
 
+**Checking for a newer version.** Once a day, the direct-download version asks the place the
+downloads live (GitHub Releases) whether a newer Scivelle exists. The request carries nothing
+about you or your documents; GitHub sees your Mac's internet address, as any website you visit
+does. An update is downloaded only when you choose to. You can turn the daily check off in
+Settings ▸ Updates. The Mac App Store version is updated by the App Store and never checks.
+
 **Sign in with ChatGPT.** "Continue with ChatGPT" opens OpenAI's sign-in page in your browser.
 Scivelle receives tokens that let it use your ChatGPT plan, and your account's email address to
 show you who is signed in. It never sees your password or your ChatGPT conversations. Signing
 out revokes the tokens.
 
-**Spelling.** The spelling checker's dictionaries are downloaded once, for your language, from
-the dictionary server used by the Chromium browser engine inside the app. No text of yours is
-sent for spell checking.
+**Spelling.** The text on the page is checked by your Mac's own spelling checker, on your Mac,
+with the dictionaries and the learned words macOS keeps; *Learn Spelling* adds a word to that
+list, which every app on your Mac shares. The other text fields use the browser engine's
+checker, whose dictionaries are downloaded once, for your language, from the dictionary server
+used by the Chromium browser engine inside the app. No text of yours is sent for spell checking.
 
 **Opening links.** Links you click in the app (a provider's key page, say) open in your
 browser.
@@ -75,7 +83,7 @@ Scivelle is not directed to children and collects no personal information from a
 
 ## Changes
 
-If this policy changes, the new version will be published at the same address (https://fredychan.github.io/scrivelle-site/privacy) with a new date.
+If this policy changes, the new version will be published at the same address (https://www.scivelle.com/privacy) with a new date.
 
 ## Contact
 
