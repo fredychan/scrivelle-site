@@ -49,6 +49,13 @@ the status bar below. Start typing.
 Recent lists what you worked on lately. ⌘S saves; the first time, you choose the name and the
 format.
 
+**Sample documents.** File ▸ Open Sample Document opens one of four documents that come with
+the app: *Welcome to Scivelle*, a one-page tour with a section for each feature and the line to
+follow in italics; an essay (Emerson's *Self-Reliance*); a legal text (the Constitution of the
+United States); and a medical article (Ioannidis, *Why Most Published Research Findings Are
+False*). Each carries a few comments. A sample opens as an untitled copy: Save asks where to put
+it, and the original stays as it was.
+
 **Formats.** Scivelle reads and writes Word documents (`.docx`), its own web documents (`.html`),
 Markdown (`.md`) and plain text (`.txt`). Word is the format to use with editors, agents and
 other word processors: formatting, styles, comments, tracked changes, pictures, the cast and
@@ -78,6 +85,15 @@ one to use it — with *Learn Spelling* (your Mac remembers the word, in every a
 (this session). Right-clicking the word offers the same. The names of your cast are never
 flagged. The checker is the Mac's own, in the language of your Mac; the status bar's language
 button turns it off and on. The text fields of the Manuscript pane are checked the usual way.
+
+**Grammar.** A couple of seconds after you pause, the paragraph you were writing goes to the
+writing assistant's engine, which points out mistakes only — agreement, tense slips, punctuation,
+a missing or doubled word, the wrong homophone — never style. Each one gets a blue line; rest
+the pointer on it for the reason and the fix (click the fix to use it, as a tracked change when
+tracking is on), or *Ignore*. Only the paragraphs you touch are ever sent, one at a time, never
+twice for the same text. With Apple Intelligence or Ollama (which run on your Mac) the check is
+on by itself; with a provider you pay for, or one that receives your text, turn it on from
+Review ▸ Grammar, which says where the paragraphs go. Review ▸ Grammar turns it off and on.
 
 **Find and replace.** ⌘F opens Find, ⇧⌘H Replace. Matches are highlighted on the page; Enter
 goes to the next.
@@ -169,6 +185,23 @@ passages and tell what happens to the character, chapter by chapter, from the te
 *Generate* invents a new character from a brief, in the world of your story, as a sheet you can
 add to the cast with one click. The cast is saved inside the document.
 
+**Traits** are eight sliders on the profile — kind or cruel, brave or cowardly, honest or
+deceitful, calm or hot-tempered, generous or selfish, open or secretive, loyal or treacherous,
+cheerful or gloomy. The middle means "not set"; one step either way is a leaning, two is the
+whole way. **Relationships** are a list: pick a tie (parent of, child of, spouse, sibling,
+friend, enemy, rival, mentor, protégé, employer, employee) and the other character. A tie set on
+one profile shows on the other's, the other way round.
+
+**The cast watcher** (the *Watch* button above the cast) reads over your shoulder for the people
+whose traits you set. A couple of seconds after you pause, a paragraph that names one of them
+goes to the writing assistant's engine with that profile; if the paragraph shows the character
+doing or saying the opposite of a trait — a cruel character tending a stranger gently — the words
+that show it get an amber dotted line. Rest the pointer on it for the note and *This is
+intentional* (the watcher never raises that paragraph again: out-of-character moments are yours
+to keep), *Open profile*, or *Rewrite in character*, which opens Say it better with the traits
+as its brief. One request per paragraph and character, never the same pair twice. It is off
+until you switch it on, and the button says where the paragraphs go.
+
 ### Notes
 
 World notes — places, customs, lore, anything the story needs remembered — as titled pages,
@@ -205,8 +238,24 @@ a paragraph, and choose:
 
 The answer streams into the assistant pane. Nothing touches your manuscript until you choose
 **Replace**, **Insert** or **Apply as tracked changes** — the last turns a rewrite or a
-proofread into insertions and deletions you accept or reject one by one. Right-click a
-selection for *Rewrite with Assistant* and *Proofread Selection*. *Stop* stops a request.
+proofread into insertions and deletions you accept or reject one by one. *Stop* stops a request.
+
+**Say it better.** Select a sentence, right-click, *Say It Better…*: a card opens under the
+selection with a rewrite that matches the story, written as you watch. The chips ask for
+another voice — plain, concise, vivid, literary, formal, romantic, humorous, suspense, horror —
+and the field takes your own words for what the sentence should say ("she is afraid and will
+not admit it"); the rewrite then follows them. *Replace* puts it in, *As tracked changes* lets
+you accept or reject each change, *Try again* asks once more, *Copy* keeps it on the clipboard.
+Esc closes the card and leaves the text as it was.
+
+**Explain this.** Select a sentence or a term, right-click, *Explain This…*: the same card says
+what the passage means in plain words, and what any specialised term — medical, legal,
+scientific, historical, a word in another language — means in the sense it has there. For
+reading a textbook as much as for writing one. A single word or a short phrase gets a gloss; a
+sentence or more gets the passage in plain words, then its harder terms. Either card can be
+moved by its title bar if it covers the passage.
+
+Right-clicking a selection also offers *Proofread Selection*.
 
 ### Who answers
 

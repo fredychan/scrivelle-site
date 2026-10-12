@@ -49,6 +49,14 @@ That text is handled under the provider's own terms and privacy policy, not this
 sends it only when you ask for an answer, only to the provider you chose, and never to the
 developer. The assistant pane always says which service is answering.
 
+**The grammar check** (Review ▸ Grammar) sends each paragraph you pause on to the same engine,
+one paragraph at a time, and only paragraphs you have just edited. It is on by itself only when
+the engine runs on your Mac (Apple Intelligence, Ollama), where nothing leaves your computer; with
+a provider that receives your text you switch it on yourself, and the app says where the
+paragraphs go. **The cast watcher** (the Watch button on the Cast tab, off until you turn it on)
+likewise sends each paragraph you pause on that names a character whose traits you set, with
+that character's profile, to the same engine.
+
 **Ollama** runs on your Mac; text sent to it does not leave your computer.
 
 **The licence key.** When you activate a licence, Scivelle sends the key and a name for your
